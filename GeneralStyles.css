@@ -1,0 +1,44 @@
+.menucompletenavbarporfolio {
+    position: fixed;
+    left: 0;
+}
+
+.gendeskcontainerporfolio {
+    width: calc(100% - 247px);
+    margin-left: 247px;
+}
+
+.headerdesktopporfolio {
+    border-left: none;
+    position: sticky;
+    top: 0;
+    background: black;
+    z-index: 9
+}
+
+.currenvaluesectionhs, .graphsectionporfolio {
+    position: sticky;
+    top: 127px;
+}
+
+.homescreen, .portfolioscreen, .portfolioscreencover, .contractsdetails, .wdoperationsscreencontent, .buycovercontent, .portfolioscreeneth, .portfolioscreenusdt, .porfoliobtc, .buycovercontent, .content {
+    justify-content: center !important;
+    align-items: flex-start !important;
+}
+
+.mainrowcompletedetails {
+    position: sticky;
+    top: 97px;
+    background: black;
+    z-index: 9;
+    margin-right: 2px !important;
+    border-bottom: solid;
+    border-color: #515151;
+}
+
+.wdoperationsscreenoperationstabbarnew, .operationstabbardetails, .nddepositoperationsscreenoperationstabbarnew, .operationstabbartrans {
+    position: sticky;
+    top: 97px;
+    background: black;
+    z-index: 9;
+}
